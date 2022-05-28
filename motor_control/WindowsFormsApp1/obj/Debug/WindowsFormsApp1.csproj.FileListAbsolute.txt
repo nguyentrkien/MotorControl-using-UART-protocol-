@@ -1,0 +1,65 @@
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\MFC_Applications\COMPORT_C#\COMPORT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\MFC_Applications\Lab2\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\MFC_Applications\ĐỒ ÁN\motor_control\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
